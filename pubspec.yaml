@@ -1,7 +1,7 @@
 name: copy_to_clipboard_web
 description: A Flutter plugin that provides a web platform API for copying text to the clipboard.
 version: 0.0.1
-homepage: https://github.com/lAmirshahinxl/copy_to_clipboard_web
+homepage: https://amirabasi.top
 repository: https://github.com/lAmirshahinxl/copy_to_clipboard_web.git
 
 environment:
